@@ -150,7 +150,7 @@ way.
 
 ### Package Name
 
-A string matching the regular expression `[a-zA-Z][-_a-zA-Z0-9]{0,213}`
+A string matching the regular expression `[a-zA-Z][-_a-zA-Z0-9]{0,255}`
 
 
 #### Content Addressable URI
